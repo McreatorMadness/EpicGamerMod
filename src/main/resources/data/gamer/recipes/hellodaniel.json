@@ -1,0 +1,16 @@
+{
+  "group": "gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lava"
+    }
+  },
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 1
+  }
+}

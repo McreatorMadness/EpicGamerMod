@@ -2,39 +2,19 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "InstaKillFluidKill",
-      "type": "procedure",
+      "name": "Hellodaniel",
+      "type": "recipe",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "insta_kill_fluid_kill",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "InstaKillFluid",
-      "type": "fluid",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "insta_kill_fluid"
+      "registry_name": "hellodaniel"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.gamer.insta_kill_fluid_bucket": "InstaKillFluid Bucket",
-      "fluid.insta_kill_fluid": "InstaKillFluid"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "gamer",
