@@ -1,0 +1,56 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "InstaKillFluidKill",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "insta_kill_fluid_kill",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "InstaKillFluid",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "insta_kill_fluid"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.gamer.insta_kill_fluid_bucket": "InstaKillFluid Bucket",
+      "fluid.insta_kill_fluid": "InstaKillFluid"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gamer",
+    "modName": "gamer",
+    "version": "1.0.0",
+    "author": "pölli forestlord, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.gamer",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
